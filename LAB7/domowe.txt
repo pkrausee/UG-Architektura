@@ -1,0 +1,2 @@
+to samo co lab6 ale przekazac wartosci przez rejestr
+

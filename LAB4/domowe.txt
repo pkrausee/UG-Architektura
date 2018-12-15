@@ -1,0 +1,4 @@
+odwrocenie stringa
+
+input: ABC
+output: CBA

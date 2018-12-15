@@ -1,0 +1,3 @@
+input: liczba z klawiatury
+
+output: liczba *2

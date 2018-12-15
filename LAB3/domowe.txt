@@ -1,0 +1,10 @@
+int x = 0xF1;
+
+int y;
+
+
+długosc najdluzszego ciagu 1
+
+np 
+input: 111001
+output: 3

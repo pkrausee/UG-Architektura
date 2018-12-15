@@ -1,0 +1,5 @@
+Wyznaczyc w konkretnej liczbie ile jest kombinacji "101" i moga nachodzic na siebie 
+
+np.
+input : 10010101
+output : 2
